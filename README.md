@@ -24,7 +24,7 @@
 **Team: 출발휴먼팀**
 | 김명건 | 김재관 | 맹의현 | 유민균 | 진영인|
 |:------:|:------:|:------:|:------:|:------:|
-| [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/maeng99) | [GitHub](https://github.com/) | [GitHub](https://github.com/) |
+| [GitHub](https://github.com/) | [GitHub](https://github.com/KJaeKwan) | [GitHub](https://github.com/maeng99) | [GitHub](https://github.com/) | [GitHub](https://github.com/) |
 
 <br/>
 
